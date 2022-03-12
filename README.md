@@ -1,6 +1,6 @@
 Fresh VPS ONLY !
 
-Autoscript installer VPS untuk jualan SSH / OVPN / v2RAY / Xray / SSR / SS
+Autoscript installer VPS untuk jualan SSH / OVPN / Xray / SSR / SS
 
 FREE SUBDOMAIN 
 
