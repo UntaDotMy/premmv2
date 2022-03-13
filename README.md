@@ -36,11 +36,11 @@ lepas tu
 - Xray Vless TLS          : 9083
 - Xray Vless None TLS     : 9880
 - Xray Vless XTLS DIRECT  : 9881
-- Xray Vless XTLS SPLICE  : 9882
+- Xray Vless XTLS SPLICE  : 9881
 - Xray Vless gRPC         : 880
 - Xray Vmess gRPC         : 881
-- xray Trojan             : 2087 
-- xray Trojan gRPC        : 2088
+- Xray Trojan             : 2087 
+- Xray Trojan gRPC        : 2088
 >>> Server Information & Other Features  
 - Timezone                : Asia/Kuala_Lumpur (GMT +8)  
 - Fail2Ban                : [ON]
